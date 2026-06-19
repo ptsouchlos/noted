@@ -1,0 +1,8 @@
+.idea/
+.local/
+.env
+obj/
+bin/
+publish/
+.DS_Store
+/.vs/
